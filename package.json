@@ -1,0 +1,11 @@
+{
+  "name": "testcase-gulp-awspublish",
+  "version": "1.0.0",
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-awspublish": "^3.2.0"
+  }
+}
